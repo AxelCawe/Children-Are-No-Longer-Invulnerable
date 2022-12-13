@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd" >
+  <Id value="Children_Are_No_Longer_Invulnerable" />
+  <Name value="Children Are No Longer Invulnerable" />
+  <Version value="v1.0.0" />
+  <DefaultModule value="false" />
+  <ModuleCategory value="Singleplayer" />
+  <ModuleType value="Community" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.2.2" />
+  </DependedModules> 
+  <SubModules>
+    <SubModule>
+      <Name value="Children_Are_No_Longer_Invulnerable" />
+      <DLLName value="Children Are No Longer Invulnerable.dll" />
+      <SubModuleClassType value="Children_Are_No_Longer_Invulnerable.SubModule" />
+      <Tags />
+    </SubModule>
+  </SubModules>
+</Module>

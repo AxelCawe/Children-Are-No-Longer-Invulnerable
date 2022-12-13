@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Children Are No Longer Invulnerable", "Children Are No Longer Invulnerable.csproj", "{64111B87-4D3A-4136-B12C-5322FECE7B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64111B87-4D3A-4136-B12C-5322FECE7B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64111B87-4D3A-4136-B12C-5322FECE7B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64111B87-4D3A-4136-B12C-5322FECE7B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64111B87-4D3A-4136-B12C-5322FECE7B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D73293-AA74-4430-95F4-28D4CFED38A3}
+	EndGlobalSection
+EndGlobal
